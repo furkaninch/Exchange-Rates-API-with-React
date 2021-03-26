@@ -1,8 +1,9 @@
 # Exchange-Rates-API-with-React
 
-# Kullanilan Teknolojiler
-React, html , css , bootstrap , axios
----
+* Kullanilan Teknolojiler
+
+        React, html , css , bootstrap , axios
+
 
 # Uygulamayi Baslatirken
 * Terminal uzerinde uygulama klasorune gidiniz
