@@ -1,0 +1,15 @@
+body {
+  background: url('./assets/exchange-api.jpeg');
+  background-size: cover;
+  background-repeat:inherit;
+}
+
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #fc3;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
